@@ -1,0 +1,1 @@
+#Ejercicio 6: Reconocer un palíndromo
